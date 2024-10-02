@@ -1,4 +1,6 @@
 # JavaScript
+![image](![a3](https://github.com/user-attachments/assets/708ad2de-a049-4323-bcc2-b9f95d46998d)
+)
 # Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
