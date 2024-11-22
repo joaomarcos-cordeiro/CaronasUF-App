@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "editor.semanticHighlighting.enabled": false,
+}

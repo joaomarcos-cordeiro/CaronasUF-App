@@ -1,4 +1,4 @@
-import { StyleSheet, View, Text, Image } from 'react-native'
+import { StyleSheet, View, Text, Image, Pressable } from 'react-native'
 import React from 'react'
 import ScreenWrapper from '../components/ScreenWrapper'
 import { StatusBar } from 'expo-status-bar'
@@ -31,6 +31,18 @@ const Welcome = () => {
                     buttonStyle={{marginHorizontal: wp(3)}}
                     onPress={()=>{}}
                 />
+<View style ={StyleSheet.bottomTextContainer}>
+    <Text style={StyleSheet.loginText}>
+    {/*Já Possui uma conta!*/}
+
+    </Text>
+    <Pressable>
+        <Text style ={[StyleSheet.loginText]}>
+             {/* Login*/}
+            
+        </Text>
+    </Pressable>
+    </View>
          </View>
         </View>
 
