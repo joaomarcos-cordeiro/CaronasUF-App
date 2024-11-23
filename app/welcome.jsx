@@ -5,42 +5,43 @@ import { StatusBar } from 'expo-status-bar'
 import { hp, wp } from '../helpers/common'
 import { theme } from '../constants/theme'
 import Button from '../components/Button'
+import { useRouter } from 'expo-router'
 
 
 
 const Welcome = () => {
+    const router = useRouter();
   return (
     <ScreenWrapper bg ="white">
         <StatusBar style="dark" />
-        <View style={style.container}>
+        <View style={styles.container}>
             {/* welcome image */}
-            <Image style={style.welcomeImage} resizeMode='contain' source={require('../assets/images/logo2.png')} />
+            <Image style={styles.welcomeImage} resizeMode='contain' source={require('../assets/images/logo2.png')} />
 
             {/* title */}
             <View style={{gap: 20}}>
-                <Text style={style.title}>Diariamente</Text>
-                <Text style={style.punchline}>
+                <Text style={styles.title}>Diariamente</Text>
+                <Text style={styles.punchline}>
                 Sem poluição, movemos seu futuro com conforto.
                     </Text>
              </View>
 
              {/* footer */}
-         <View style={style.footer}>
+         <View style={styles.footer}>
                 <Button
                     title="Começar"
                     buttonStyle={{marginHorizontal: wp(3)}}
-                    onPress={()=>{}}
+                    onPress={()=> router.push('signUp')}
                 />
-<View style ={StyleSheet.bottomTextContainer}>
-    <Text style={StyleSheet.loginText}>
-    {/*Já Possui uma conta!*/}
+<View style ={styles.bottomTextContainer}>
+    <Text style={styles.loginText }>
+    Já Possui uma conta!
 
     </Text>
-    <Pressable>
-        <Text style ={[StyleSheet.loginText]}>
-             {/* Login*/}
-            
-        </Text>
+    <Pressable onPress={()=> router.push('login')}>  
+        <Text style ={[styles.loginText, {color: theme.colors.primaryDark, fontWeight:theme.fonts.semibold}]}>
+             Login
+         </Text>
     </Pressable>
     </View>
          </View>
@@ -55,7 +56,7 @@ const Welcome = () => {
 
 export default Welcome
 
-const style = StyleSheet.create ({
+const styles = StyleSheet.create ({
     container:{
         flex: 1,
         alignItems: 'center',
@@ -86,6 +87,17 @@ const style = StyleSheet.create ({
     footer:{
         gap:30,
         width: '100%'
+    },
+    bottomTextContainer: {
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center',
+        gap: 5
+    },
+    loginText: {
+        textAlign: 'center',
+        color: theme.colors.text,
+        fontSize: hp(1.6)
     }
 
 
