@@ -1,6 +1,13 @@
 
 # JavaScript Project 👋
-![a3](https://github.com/user-attachments/assets/e41eab03-3129-4074-9305-cdf681a8d0d3)
+![A1NOVA](https://github.com/user-attachments/assets/a3688559-99b9-4f56-a966-c8db11b8a5f2)
+
+![A2NOVA](https://github.com/user-attachments/assets/125db19f-b1db-4949-8926-2c6da26c7211)
+
+![A3NOVA](https://github.com/user-attachments/assets/64cb4f97-f7f0-4b26-96b0-415cae58338d)
+
+
+
 
 # Expo app 👋
 
