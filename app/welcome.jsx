@@ -16,7 +16,7 @@ const Welcome = () => {
         <StatusBar style="dark" />
         <View style={styles.container}>
             {/* welcome image */}
-            <Image style={styles.welcomeImage} resizeMode='contain' source={require('../assets/images/logo2.png')} />
+            <Image style={styles.welcomeImage} resizeMode='contain' source={require('../assets/images/logo16.png')} />
 
             {/* title */}
             <View style={{gap: 20}}>
@@ -35,7 +35,7 @@ const Welcome = () => {
                 />
 <View style ={styles.bottomTextContainer}>
     <Text style={styles.loginText }>
-    Já Possui uma conta!
+    Já possui uma conta?
 
     </Text>
     <Pressable onPress={()=> router.push('login')}>  

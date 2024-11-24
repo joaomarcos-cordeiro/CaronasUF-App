@@ -6,7 +6,7 @@ import arrowLeft from './arrowLeft';
 import Email from './Email';
 import Lock from './Lock';
 import Uni from './Uni';
-import Name from './name';
+import Name from './Name';
 import Card from './Card';
 
 const icons ={
