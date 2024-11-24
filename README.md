@@ -1,15 +1,12 @@
 
 # JavaScript Project 👋
-![A1NOVA](https://github.com/user-attachments/assets/a3688559-99b9-4f56-a966-c8db11b8a5f2)
-
-![A2NOVA](https://github.com/user-attachments/assets/125db19f-b1db-4949-8926-2c6da26c7211)
-
-![A3NOVA](https://github.com/user-attachments/assets/64cb4f97-f7f0-4b26-96b0-415cae58338d)
-
-
-
+![B1](https://github.com/user-attachments/assets/d885b43e-24a9-4091-8642-e5f509d6ee8f)
+![B2](https://github.com/user-attachments/assets/af912623-2b15-41c0-814d-b903f8da1011)
+![B3](https://github.com/user-attachments/assets/188bf61d-ca77-4dc3-8321-0a497d51b20e)
 
 # Expo app 👋
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
