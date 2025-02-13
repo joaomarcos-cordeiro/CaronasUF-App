@@ -8,7 +8,7 @@
 
 - Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile.
 
-## O Resumo referente ao artigo: 
+## Resumo referente ao artigo: 
 
 O estudo expõe a relevância crescente da sustentabilidade para o desenvolvimento humano,
 ao destacar a relação entre emissões de gases de efeito estufa e a preservação ambiental.
@@ -22,7 +22,7 @@ detalha as etapas de desenvolvimento do aplicativo de carona, ao adotar um méto
 prioriza qualidade de desempenho, personalização, escalabilidade e longevidade.
 Palavras-chaves: Catástrofes Climáticas; Sustentabilidade; Aplicativo de Carona.
 
-## O Resumo referente ao artigo em Inglês Abstract: 
+## Resumo referente ao artigo em Inglês Abstract: 
 
 This study highlights the growing importance of sustainability for human development,
 emphasizing the relationship between greenhouse gas emissions and environmental preser-
