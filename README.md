@@ -2,11 +2,11 @@
 
 🚀 Developing an Application and Publishing an Article!  📄📱
 
-É com grande felicidade que venho aqui compartilhar com vocês essa conquista, o projeto CaronasUF e quais foram suas inspirações.
+- É com grande felicidade que venho aqui compartilhar com vocês essa conquista, o projeto CaronasUF e quais foram suas inspirações.
 
-Este projeto nasceu do artigo que produzi, publicado no acervo da biblioteca da UFJ.
+- Este projeto nasceu do artigo que produzi, publicado no acervo da biblioteca da UFJ.
 
-Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile.
+- Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile.
 
 ## O Resumo referente ao artigo: 
 
