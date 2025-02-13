@@ -1,3 +1,37 @@
+🚀 Desenvolvimento de Aplicativo + Publicação de Artigo! 📄📱
+🚀 Developing an Application and Publishing an Article!  📄📱
+
+É com grande felicidade que venho aqui compartilhar com vocês essa conquista, o projeto CaronasUF e quais foram suas inspirações.
+Este projeto nasceu do artigo que produzi, publicado no acervo da biblioteca da UFJ.
+Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile.
+
+## O Resumo referente ao artigo: 
+
+O estudo expõe a relevância crescente da sustentabilidade para o desenvolvimento humano,
+ao destacar a relação entre emissões de gases de efeito estufa e a preservação ambiental.
+Relata o impacto das frequentes catástrofes climáticas enfrentadas atualmente, reforçando
+a urgência de iniciativas que promovam um futuro sustentável. Com enfoque na mobilidade
+urbana e em comportamentos sustentáveis aplicados internacionalmente, a pesquisa propõe
+o desenvolvimento de um aplicativo de carona destinado a estudantes da Universidade
+Federal de Jataí (UFJ). O intuito consiste em facilitar o transporte, reduzir a emissão
+de poluentes e contribuir para minimizar os efeitos das mudanças climáticas. O projeto
+detalha as etapas de desenvolvimento do aplicativo de carona, ao adotar um método que
+prioriza qualidade de desempenho, personalização, escalabilidade e longevidade.
+Palavras-chaves: Catástrofes Climáticas; Sustentabilidade; Aplicativo de Carona.
+
+## O Resumo referente ao artigo em Inglês Abstract: 
+
+This study highlights the growing importance of sustainability for human development,
+emphasizing the relationship between greenhouse gas emissions and environmental preser-
+vation. It discusses the impact of frequent climate disasters currently faced, stressing
+the urgency of initiatives that promote a sustainable future. Focusing on urban mobility
+and sustainable behaviors applied internationally, the research proposes the development
+of a carpooling app for students at the Federal University of Jataí (UFJ). The aim is
+to facilitate transportation, reduce pollutant emissions, and help mitigate the effects of
+climate change. The project outlines the stages of the carpool app development, adopting a
+methodology that prioritizes performance quality, customization, scalability, and longevity.
+Key-words: Climate Disasters; Sustainability; Carpooling App.
+
 
 # JavaScript Project 👋
 ![B1](https://github.com/user-attachments/assets/d885b43e-24a9-4091-8642-e5f509d6ee8f)
