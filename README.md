@@ -22,7 +22,7 @@ detalha as etapas de desenvolvimento do aplicativo de carona, ao adotar um méto
 prioriza qualidade de desempenho, personalização, escalabilidade e longevidade.
 Palavras-chaves: Catástrofes Climáticas; Sustentabilidade; Aplicativo de Carona.
 
-## Resumo referente ao artigo em Inglês Abstract: 
+## Abstract referring to the article: 
 
 This study highlights the growing importance of sustainability for human development,
 emphasizing the relationship between greenhouse gas emissions and environmental preser-
