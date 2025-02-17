@@ -4,7 +4,7 @@
 
 - É com grande felicidade que venho aqui compartilhar com vocês essa conquista, o projeto CaronasUF e quais foram suas inspirações.
 
-- Este projeto nasceu do artigo que produzi, publicado no acervo da biblioteca da UFJ.
+- Este projeto nasceu do artigo que produzi, publicado no acervo digital do Sistema de Bibliotecas da Universidade Federal de Jataí.
 
 - Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile.
 
