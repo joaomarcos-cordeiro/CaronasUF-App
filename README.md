@@ -1,7 +1,5 @@
 🚀 Desenvolvimento de Aplicativo + Publicação de Artigo! 📄📱
 
-🚀 Developing an Application and Publishing an Article!  📄📱
-
 - É com grande felicidade que venho aqui compartilhar com vocês essa conquista, o projeto CaronasUF e quais foram suas inspirações.
 
 - Este projeto nasceu do artigo que produzi, publicado no acervo digital do Sistema de Bibliotecas da Universidade Federal de Jataí.
