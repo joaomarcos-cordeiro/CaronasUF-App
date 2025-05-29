@@ -6,7 +6,7 @@
 
 - Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile.
 
-## Artigo -[monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
+## Artigo - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
 
 ## Resumo referente ao artigo: 
 
