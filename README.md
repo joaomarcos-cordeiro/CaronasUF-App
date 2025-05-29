@@ -6,6 +6,8 @@
 
 - Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile.
 
+## Artigo -[monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
+
 ## Resumo referente ao artigo: 
 
 O estudo expõe a relevância crescente da sustentabilidade para o desenvolvimento humano,
@@ -20,6 +22,7 @@ detalha as etapas de desenvolvimento do aplicativo de carona, ao adotar um méto
 prioriza qualidade de desempenho, personalização, escalabilidade e longevidade.
 Palavras-chaves: Catástrofes Climáticas; Sustentabilidade; Aplicativo de Carona.
 
+## Article - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
 ## Abstract referring to the article: 
 
 This study highlights the growing importance of sustainability for human development,
@@ -93,3 +96,5 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+- 
