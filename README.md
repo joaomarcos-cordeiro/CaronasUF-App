@@ -4,7 +4,7 @@
 
 - Este projeto nasceu do artigo que produzi, publicado no acervo digital do Sistema de Bibliotecas da Universidade Federal de Jataí.
 
-- Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile.
+- Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile. Além disso, esse artigo me proporcionou o título de Bacharel em Ciência da Computação.
 
 ## Artigo - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
 
