@@ -47,7 +47,7 @@ Key-words: Climate Disasters; Sustainability; Carpooling App.
   
     JavaScript
   
-    Git & GitHub (versionamento e colaboração)
+    Git & GitHub (versionamento)
 
   📁 Estrutura do Projeto
 ```
