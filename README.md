@@ -37,6 +37,29 @@ methodology that prioritizes performance quality, customization, scalability, an
 Key-words: Climate Disasters; Sustainability; Carpooling App.
 
 
+- Tecnologias
+    React Native 
+    Expo — ferramenta para testes em dispositivos Android, iOS e Web.
+    JavaScript — linguagem principal do projeto.
+    Git & GitHub — versionamento e colaboração.
+
+  📁 Estrutura do Projeto
+```
+CaronasUF-App/
+├─ .vscode/                # Configs do VS Code
+├─ app/                    # Código-fonte do app
+├─ assets/                 # Imagens, ícones e recursos estáticos
+├─ components/             # Componentes reutilizáveis
+├─ constants/              # Constantes e configurações
+├─ helpers/                # Funções utilitárias
+├─ scripts/                # Scripts auxiliares
+├─ app.json                # Configuração Expo
+├─ babel.config.js         # Babel
+├─ package.json            # Dependências & scripts
+├─ README.md               # Documentação principal
+└─ tsconfig.json           # Configuração TypeScript
+```
+
 # JavaScript Project 👋
 ![B1](https://github.com/user-attachments/assets/d885b43e-24a9-4091-8642-e5f509d6ee8f)
 
