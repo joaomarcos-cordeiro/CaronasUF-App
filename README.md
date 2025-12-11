@@ -37,7 +37,7 @@ methodology that prioritizes performance quality, customization, scalability, an
 Key-words: Climate Disasters; Sustainability; Carpooling App.
 
 
-- Tecnologias
+- Tecnologias Utilizadas
   
     React Native
   
