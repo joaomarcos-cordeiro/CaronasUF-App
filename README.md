@@ -39,10 +39,14 @@ Key-words: Climate Disasters; Sustainability; Carpooling App.
 
 - Tecnologias
   
-    React Native 
+    React Native
+  
     Expo (ferramenta para testes em dispositivos Android, iOS e Web)
+  
     TypeScript
+  
     JavaScript
+  
     Git & GitHub (versionamento e colaboração)
 
   📁 Estrutura do Projeto
