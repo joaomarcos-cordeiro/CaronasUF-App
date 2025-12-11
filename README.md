@@ -1,4 +1,4 @@
-Desenvolvimento de Aplicativo + Publicação de Artigo 
+🎓 Desenvolvimento de Aplicativo + Publicação de Artigo 
 
 - É com grande felicidade que venho aqui compartilhar com vocês essa conquista, o projeto CaronasUF e quais foram suas inspirações.
 
