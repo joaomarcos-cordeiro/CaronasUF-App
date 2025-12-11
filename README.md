@@ -40,9 +40,10 @@ Key-words: Climate Disasters; Sustainability; Carpooling App.
 - Tecnologias
   
     React Native 
-    Expo — ferramenta para testes em dispositivos Android, iOS e Web.
-    JavaScript — linguagem principal do projeto.
-    Git & GitHub — versionamento e colaboração.
+    Expo (ferramenta para testes em dispositivos Android, iOS e Web)
+    TypeScript
+    JavaScript
+    Git & GitHub (versionamento e colaboração)
 
   📁 Estrutura do Projeto
 ```
