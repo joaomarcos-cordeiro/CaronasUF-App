@@ -39,15 +39,15 @@ Key-words: Climate Disasters; Sustainability; Carpooling App.
 
 - Stack Tecnológica
   
-   ○ React Native
+   ◦ React Native
   
-   ○ Expo (ferramenta para testes em dispositivos Android, iOS e Web)
+   ◦ Expo (ferramenta para testes em dispositivos Android, iOS e Web)
   
-   ○ TypeScript
+   ◦ TypeScript
   
-   ○ JavaScript
+   ◦ JavaScript
   
-   ○ Git & GitHub (versionamento)
+   ◦ Git & GitHub (versionamento)
 
   📁 Estrutura do Projeto
 ```
