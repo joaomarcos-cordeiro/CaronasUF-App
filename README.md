@@ -6,7 +6,10 @@
 
 - Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile. Além disso, esse artigo me proporcionou o título de Bacharel em Ciência da Computação.
 
+
 ## Artigo - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
+## ```Tema : Proposta de um App de carona para suprir a necessidade
+de transporte para Universidade Federal de Jataí.```
 
 ## Resumo referente ao artigo: 
 
@@ -23,6 +26,8 @@ prioriza qualidade de desempenho, personalização, escalabilidade e longevidade
 Palavras-chaves: Catástrofes Climáticas; Sustentabilidade; Aplicativo de Carona.
 
 ## Article - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
+## Theme: Proposal for a Ride-Sharing App to Address Transportation Needs at the Federal University of Jataí
+
 ## Abstract referring to the article: 
 
 This study highlights the growing importance of sustainability for human development,
