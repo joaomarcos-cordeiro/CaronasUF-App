@@ -32,6 +32,8 @@ detalha as etapas de desenvolvimento do aplicativo de carona, ao adotar um méto
 prioriza qualidade de desempenho, personalização, escalabilidade e longevidade.
 Palavras-chaves: Catástrofes Climáticas; Sustentabilidade; Aplicativo de Carona.
 
+
+
 ## ``` ~~~ English -> ```
 ## Article - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
 ##  ``` Theme: Proposal for a Ride-Sharing App to Address Transportation Needs at the Federal University of Jataí. ```
