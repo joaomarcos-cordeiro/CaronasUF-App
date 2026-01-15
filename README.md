@@ -8,8 +8,7 @@
 
 
 ## Artigo - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
-## ```Tema : Proposta de um App de carona para suprir a necessidade
-de transporte para Universidade Federal de Jataí.```
+## ``` Tema : Proposta de um App de carona para suprir a necessidade de transporte para Universidade Federal de Jataí. ```
 
 ## Resumo referente ao artigo: 
 
