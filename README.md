@@ -8,7 +8,7 @@
 
   ## ``` ~~~ English -> ```
   
-- It is with great happiness that I share this achievement with you: the CaronasUF project and the inspirations behind it.
+- It is with great pleasure that I share this achievement with you: the CaronasUF project and the inspirations behind it.
 
 - This project was born from an article I authored, published in the digital repository of the Library System of the Federal University of Jataí.
 
