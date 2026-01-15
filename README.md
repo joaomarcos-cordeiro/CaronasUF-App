@@ -45,13 +45,13 @@ Key-words: Climate Disasters; Sustainability; Carpooling App.
   
    ◦ React Native
   
-   ◦ Expo (ferramenta para testes em dispositivos Android, iOS e Web)
+   ◦ Expo (Android, iOS e Web)
   
    ◦ TypeScript
   
    ◦ JavaScript
   
-   ◦ Git & GitHub (versionamento)
+   ◦ Git & GitHub 
 
 ## ``` Diagrama de Contexto ```
 O diagrama de contexto do aplicativo de carona apresentado na Figura 4, os
