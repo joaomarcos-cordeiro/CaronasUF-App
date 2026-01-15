@@ -45,7 +45,7 @@ Key-words: Climate Disasters; Sustainability; Carpooling App.
   
    ◦ React Native
   
-   ◦ Expo (Android, iOS e Web)
+   ◦ Expo (Android, iOS & Web)
   
    ◦ TypeScript
   
