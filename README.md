@@ -1,10 +1,18 @@
-🎓 Desenvolvimento de Aplicativo + Publicação de Artigo 
+🎓 Desenvolvimento de Aplicativo + Publicação de Artigo // 🎓 App Development + Article Publication
 
 - É com grande felicidade que venho aqui compartilhar com vocês essa conquista, o projeto CaronasUF e quais foram suas inspirações.
 
 - Este projeto nasceu do artigo que produzi, publicado no acervo digital do Sistema de Bibliotecas da Universidade Federal de Jataí.
 
 - Essa experiência me permitiu conectar pesquisa e desenvolvimento prático, aprimorando habilidades em engenharia de software, mobilidade urbana e tecnologia mobile. Além disso, esse artigo me proporcionou o título de Bacharel em Ciência da Computação.
+
+  ## ``` ~~~ English -> ```
+  
+- It is with great happiness that I share this achievement with you: the CaronasUF project and the inspirations behind it.
+
+- This project was born from an article I authored, published in the digital repository of the Library System of the Federal University of Jataí.
+
+- This experience allowed me to connect research with practical development, enhancing my skills in software engineering, urban mobility, and mobile technology. In addition, this article granted me the Bachelor’s degree in Computer Science.
 
 
 ## Artigo - [monografia_joaomarcos__definitiva.pdf](https://github.com/user-attachments/files/20510715/monografia_joaomarcos__definitiva.pdf)
