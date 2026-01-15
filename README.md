@@ -61,6 +61,7 @@ The context diagram of the ride-sharing application presented in Figure 4 shows 
 
 <img width="539" height="766" alt="image" src="https://github.com/user-attachments/assets/58f15c15-a3ac-4909-99d2-6473a3c86fa7" />
 
+
 ```  📁 Estrutura do Projeto ```
 ```
 CaronasUF-App/
