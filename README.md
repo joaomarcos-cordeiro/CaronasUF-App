@@ -49,7 +49,7 @@ Key-words: Climate Disasters; Sustainability; Carpooling App.
   
    ◦ Git & GitHub (versionamento)
 
-  📁 Estrutura do Projeto
+```  📁 Estrutura do Projeto ```
 ```
 CaronasUF-App/
 ├─ .vscode/                # Configs do VS Code
@@ -65,6 +65,14 @@ CaronasUF-App/
 ├─ README.md               # Documentação principal
 └─ tsconfig.json           # Configuração TypeScript
 ```
+## ``` Diagrama de Contexto ```
+O diagrama de contexto do aplicativo de carona apresentado na Figura 4, os
+atores são a representação simplificada de uma figura humana. As elipses simbolizam as
+interações e os fluxos de dados entre o sistema e o ambiente externo. Por último a seta
+extend significa uma relação de extensão entre dois casos de uso, o caso de uso estendido
+adiciona funcionalidades extras, mas não é obrigatório para a execução do principal.
+
+<img width="539" height="766" alt="image" src="https://github.com/user-attachments/assets/58f15c15-a3ac-4909-99d2-6473a3c86fa7" />
 
 # JavaScript Project 👋
 ![B1](https://github.com/user-attachments/assets/d885b43e-24a9-4091-8642-e5f509d6ee8f)
